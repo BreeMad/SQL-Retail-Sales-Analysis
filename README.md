@@ -5,7 +5,7 @@
 Photo by <a href="https://unsplash.com/@himiwaybikes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Himiway Bikes</a> on <a href="https://unsplash.com/photos/black-and-yellow-bicycle-on-road-during-daytime-H42qjX8SG80?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
 ## Objective
-The aim of this project is to analyze real-world bike data obtained from sqlservertutorial.net using PostgreSQL, and to create visualizations in PowerBI to uncover insights related to customer behavior, product performance, order management, and financial analysis.
+This project aims to analyze real-world bike data obtained from sqlservertutorial.net using PostgreSQL, and to create visualizations in Power BI to uncover insights related to customer behavior, product performance, order management, and financial analysis.
 
 ## Key Questions
 ***Customer Insights***
@@ -56,11 +56,11 @@ After looking closely at the bike store database and using insights from SQL que
 + Offer promotions and discounts for items with low sales to help clear out inventory. 
 
 **Targeted Marketing Campaigns**  
-+ Focus on specific promotions for returning customers to built loyalty, and encourage one-time buyters to come back with incentives. 
++ Focus on specific promotions for returning customers to build loyalty, and encourage one-time buyers to come back with incentives. 
 + Use local marketing strategies that match the interests or events in the San Diego area.  
 
 **Enhance Customer Service**  
-+ Strengthen supply chain processes to ensure timely deliveries to ensure  customer satisfaction and repeat purchases.
++ Strengthen supply chain processes to ensure timely deliveries to boost customer satisfaction and repeat purchases.
 + Use customer data to send personalized messages after purchases, ask for feedback, and offer relevant product recommendations based on prior purchases.
 
 **Adjust Pricing Strategies**  
