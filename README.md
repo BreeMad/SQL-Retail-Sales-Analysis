@@ -1,6 +1,6 @@
 # SQL Retail Sales Analysis
 
-![Company Logo](https://github.com/BreeMad/Customer-Sales-and-Profitability-Analysis/blob/main/1.jpg)
+![Company Logo]([https://github.com/BreeMad/Customer-Sales-and-Profitability-Analysis/blob/main/1.jpg](https://github.com/BreeMad/SQL-Retail-Sales-Analysis/blob/main/himiway-bikes-H42qjX8SG80-unsplash.jpg)
 
 Photo by <a href="https://unsplash.com/@himiwaybikes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Himiway Bikes</a> on <a href="https://unsplash.com/photos/black-and-yellow-bicycle-on-road-during-daytime-H42qjX8SG80?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
