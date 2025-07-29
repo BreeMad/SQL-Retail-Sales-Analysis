@@ -1,6 +1,6 @@
 # SQL Retail Sales Analysis
 
-![Company Logo](https://github.com/BreeMad/SQL-Retail-Sales-Analysis/blob/bicycle.jpg)
+![Company Logo](https://github.com/BreeMad/SQL-Retail-Sales-Analysis/blob/main/bicycle.jpg)
 
 Photo by <a href="https://unsplash.com/@himiwaybikes?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Himiway Bikes</a> on <a href="https://unsplash.com/photos/black-and-yellow-bicycle-on-road-during-daytime-H42qjX8SG80?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
 
